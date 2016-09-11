@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+<div>
+<form action="" method="post"><select name="adress">
+
+<option value="0">select address</option>
+  <option value="1">2 some street</option>
+  <option value="2">4 some street</option>
+  <option value="3">6 some street</option>
+  <option value="4">8 some street</option>
+</select>
+
+<br /><br />
+<input name="company" type="text" value="company" size="100" />
+<br /><br />
+<input name="adress line 1" type="text" value="adress line 1" size="100" />
+<br /><br />
+<input name="adress line 2" type="text" value="adress line 2" size="100" />
+<br /><br />
+<input name="adress line 3" type="text" value="adress line 3" size="100" />
+<br /><br />
+<input name="city" type="text" value="city" size="100" />
+<br /><br />
+<input name="postcode" type="text" value="postcode" size="100" readonly="readonly" />
+
+</form>
+
+</div>
+
+</body>
+</html>
+
